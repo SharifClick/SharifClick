@@ -1,7 +1,7 @@
 ### Hi there 👋, Im Sharif, Self-taught Software Engineer. 
 
 -  :computer: I am working as **Software Engineer**
--  :monocle_face: Interested in everything about whats new in tech.
+-  :monocle_face: Interested in everything about tech.
 -  :seedling: Currently learning **Rust, Vlang**
 -  :heart: Open Source Software
 
