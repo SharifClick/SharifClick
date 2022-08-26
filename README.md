@@ -1,4 +1,4 @@
-### Hi there 👋, Im Sharif, self-taught Software Engineer. 
+### Hi there 👋, Im Sharif, Self-taught Software Engineer. 
 
 -  :computer: I am working as **Software Engineer**
 -  :monocle_face: Interested in everything about whats new in tech.
