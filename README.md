@@ -1,13 +1,1 @@
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=SharifClick&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=SharifClick&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=SharifClick&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-</picture>
-
-
-### Hi there 👋, Im Sharif, Self-taught Software Engineer. 
-
--  :computer: I am working as **Software Engineer**
--  :monocle_face: Interested in everything about tech.
--  :seedling: Currently learning **Rust, Vlang**
--  :heart: Open Source Software
+👋 Hey there! I'm Sharif, a frontend-focused full-stack developer with a passion for open source. 💻 I love crafting beautiful and user-friendly interfaces that bring ideas to life.  🎨 When I'm not coding, you can find me exploring new technologies, sipping milk tea, or watching movies. Let's build something amazing together! 
